@@ -6,3 +6,6 @@ location and we can access content at that particular location using them.
 Iterators play a critical role in connecting algorithm with containers along
 with the manipulation of data stored inside the containers.
 The most obvious form of iterator is a pointer.
+Iterators are used :
+The primary purpose of an iterator is to allow a user to process every element of a 
+container while isolating the user from the internal structure of the container.
